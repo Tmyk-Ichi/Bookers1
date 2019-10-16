@@ -1,0 +1,24 @@
+// Place all the styles related to the books controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.top-explain{
+    padding-top:180px;
+    text-align:center;
+}
+
+body{
+	margin:30px;
+}
+
+table{
+	display:table;
+}
+
+thead{
+	display: table-header-group
+}
+
+tbody{
+	display: table-row-group
+}
